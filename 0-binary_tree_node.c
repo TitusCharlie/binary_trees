@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 #include "binary_trees.h"
 
 /**
