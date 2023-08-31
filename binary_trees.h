@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 #ifndef _BINARY_TREES_H_
 #define _BINARY_TREES_H_
 
